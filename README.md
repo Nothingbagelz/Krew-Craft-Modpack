@@ -1,3 +1,5 @@
+**I DO NOT OWN ANY OF THE MODS INCLUDED IN THIS PACK, ALL MODS CAN BE FOUND ON FORGE**
+
 this is a **34-mod megapack built on
 popular youtuber ItsFunneh's "Krew Craft"
 series, including (nearly) every mod
