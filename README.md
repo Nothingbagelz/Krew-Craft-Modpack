@@ -1,6 +1,6 @@
 **I DO NOT OWN ANY OF THE MODS INCLUDED IN THIS PACK, ALL MODS CAN BE FOUND ON FORGE**
 
-this is a **34-mod megapack built on
+this is a **megapack built on
 popular youtuber ItsFunneh's "Krew Craft"
 series, including (nearly) every mod
 used in her series.**
@@ -38,6 +38,7 @@ used in her series.**
 30. YUNG's Better Caves (Forge)
 31. YUNG's Bridges (Forge)
 32. ESSENTIAL Mod
+and more. If you want me to add it, email me at austinjalexander12@gmail.com
 
 Note that this modpack is built to run multiplayer on 1.16.5, using ATLauncher.
 
